@@ -1,4 +1,4 @@
-#Project APEX
+# Project APEX
 
 Portfolio projektów z obszaru analizy danych, Pythona i AI, budowane samodzielnie jako przygotowanie do pracy przy rozwiązaniach low-code i automatyzacji procesów biznesowych (Power Platform, AI).
 
