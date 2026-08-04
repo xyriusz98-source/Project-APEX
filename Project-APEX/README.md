@@ -22,8 +22,11 @@ Stack: Python (statistics, typing)
 Property Intelligence Engine to pierwszy moduł. Kolejne planowane elementy Project APEX:
 
 -Power Automate + Python integration — przykładowy przepływ łączący automatyzację low-code z logiką napisaną w Pythonie (np. wzbogacanie/walidacja danych przed przekazaniem do flow).
+
 -Power Apps prototyp — prosta aplikacja low-code korzystająca z danych wygenerowanych przez moduł analityczny.
+
 -RAG / AI agent demo — mały system odpowiadający na pytania na podstawie własnej bazy dokumentów, jako wprowadzenie do rozwiązań opartych o duże modele językowe.
+
 -Certyfikacja PL-900 — formalne potwierdzenie kompetencji w Power Platform, równolegle do rozwoju repozytorium.
 
 Każdy kolejny moduł ma być samodzielnym, działającym elementem — repozytorium rośnie wraz z moimi kompetencjami, nie jest projektem zamkniętym w jednym momencie.
